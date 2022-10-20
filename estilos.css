@@ -1,0 +1,32 @@
+*{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+h1{
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    color: coral;
+}
+a:hover{
+    color: red;
+}
+#div1{
+    font-size: small;
+    text-align: center;
+}
+.titulo{
+    font-size: large;
+    font-weight: bold;
+    color: aqua;
+
+}
+.subtitulo, .fecha{
+    font-size: small;
+    font-style: italic;
+}
